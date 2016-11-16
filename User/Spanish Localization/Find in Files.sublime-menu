@@ -1,0 +1,9 @@
+[
+    { "command": "clear_location", "caption": "Borrar" },
+    { "command": "add_where_snippet", "args": {"snippet": "<current file>"}, "caption": "Incluir archivo actual" },
+    { "command": "add_where_snippet", "args": {"snippet": "<open files>"}, "caption": "Incluir archivos abiertos" },
+    { "command": "add_where_snippet", "args": {"snippet": "<open folders>"}, "caption": "Incluir carpetas abiertas" },
+    { "command": "add_directory", "caption": "Incluir carpeta…" },
+    { "command": "add_where_snippet", "args": {"snippet": "*.${0:txt}"}, "caption": "Añadir filtro de inclusión" },
+    { "command": "add_where_snippet", "args": {"snippet": "-*.${0:txt}"}, "caption": "Añadir filtro de exclusión" },
+]

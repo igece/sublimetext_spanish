@@ -1,0 +1,16 @@
+[
+    { "command": "open_context_url", "caption": "Abrir enlace en navegador" },
+    { "command": "context_goto_definition", "caption": "Ir a la definición" },
+    { "caption": "-", "id": "clipboard" },
+    { "command": "copy", "caption": "Copiar" },
+    { "command": "cut", "caption": "Cortar" },
+    { "command": "paste", "caption": "Pegar"},
+    { "caption": "-", "id": "selection" },
+    { "command": "select_all", "caption": "Seleccionar todo" },
+    { "caption": "-", "id": "file" },
+    { "command": "open_in_browser", "caption": "Abrir en el navegador" },
+    { "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}, "caption": "Abrir carpeta contenedora…" },
+    { "command": "copy_path", "caption": "Copiar la ruta del archivo" },
+    { "command": "reveal_in_side_bar", "caption": "Localizar en la barra lateral" },
+    { "caption": "-", "id": "end" }
+]

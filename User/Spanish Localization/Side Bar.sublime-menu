@@ -1,0 +1,11 @@
+[
+	{ "caption": "Nuevo achivo", "command": "new_file_at", "args": {"dirs": []} },
+	{ "caption": "Cambiar nombre…", "command": "rename_path", "args": {"paths": []} },
+	{ "caption": "Borrar archivo", "command": "delete_file", "args": {"files": []} },
+	{ "caption": "Abrir carpeta contenedora…", "command": "open_containing_folder", "args": {"files": []} },
+	{ "caption": "-", "id": "folder_commands" },
+	{ "caption": "Nueva carpeta…", "command": "new_folder", "args": {"dirs": []} },
+	{ "caption": "Borrar carpeta", "command": "delete_folder", "args": {"dirs": []} },
+	{ "caption": "Buscar en esta carpeta…", "command": "find_in_folder", "args": {"dirs": []} },
+	{ "caption": "-", "id": "end" }
+]

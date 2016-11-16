@@ -1,0 +1,42 @@
+[
+    {
+        "caption": "File","mnemonic": "A",
+        "id": "file"
+    },
+    {
+        "caption": "Edit","mnemonic": "E",
+        "id": "edit",
+    },
+    {
+        "caption": "Selection","mnemonic": "S",
+        "id": "selection"
+    },
+    {
+        "caption": "Find","mnemonic": "i",
+        "id": "find"
+    },
+    {
+        "caption": "View","mnemonic": "V",
+        "id": "view",
+    },
+    {
+        "caption": "Goto","mnemonic": "G",
+        "id": "goto",
+    },
+    {
+        "caption": "Tools","mnemonic": "T",
+        "id": "tools"
+    },
+    {
+        "caption": "Project","mnemonic": "P",
+        "id": "project"
+    },
+    {
+        "caption": "Preferences","mnemonic": "n",
+        "id": "preferences"
+    },
+    {
+        "caption": "Help","mnemonic": "H",
+        "id": "help"
+    }
+]
