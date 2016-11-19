@@ -25,4 +25,4 @@ Traducción al castellano de los menús de Sublime Text 3.
 
 ###Desinstalación
 
-- Borrar los directorios "Default" y "User/Spanish Localization" del directorio Packages.
+- Borra los directorios "Default" y "User/Spanish Localization" del directorio Packages.
