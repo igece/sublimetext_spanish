@@ -1,0 +1,15 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Spanish",
+			"details": "https://github.com/igece/sublimetext_spanish",
+			"releases": [
+				{
+					"details": "https://github.com/igece/sublimetext_spanish/tree/master",
+					"sublime_text": ">=3000"
+				}
+			]
+		}
+	]
+}
