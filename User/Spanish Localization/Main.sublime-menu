@@ -880,7 +880,7 @@
             { "command": "show_license_window", "caption": "Introducir licencia" },
             { "command": "remove_license", "caption": "Quitar licencia"},
             { "caption": "-" },
-            { "command": "update_check", "caption": "Check for Updates…", "platform": "!Linux" },
+            { "command": "update_check", "caption": "Buscar actualizaciones…", "platform": "!Linux" },
             { "command": "show_changelog", "caption": "Registro de cambios…" },
             { "command": "show_about_window", "caption": "Acerca de Sublime Text", "mnemonic": "A" }
         ]
